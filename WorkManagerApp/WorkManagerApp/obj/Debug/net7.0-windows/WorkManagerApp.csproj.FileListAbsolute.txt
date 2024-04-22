@@ -1,0 +1,17 @@
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\bin\Debug\net7.0-windows\WorkManagerApp.exe
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\bin\Debug\net7.0-windows\WorkManagerApp.deps.json
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\bin\Debug\net7.0-windows\WorkManagerApp.runtimeconfig.json
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\bin\Debug\net7.0-windows\WorkManagerApp.dll
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\bin\Debug\net7.0-windows\WorkManagerApp.pdb
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.csproj.AssemblyReference.cache
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.Form1.resources
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.csproj.GenerateResource.cache
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.AssemblyInfoInputs.cache
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.AssemblyInfo.cs
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.csproj.CoreCompileInputs.cache
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.dll
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\refint\WorkManagerApp.dll
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.pdb
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\WorkManagerApp.genruntimeconfig.cache
+D:\Research\C-Sharp\WinformMicrosoft\RealProjectNTU\WorkManagerApp\WorkManagerApp\obj\Debug\net7.0-windows\ref\WorkManagerApp.dll

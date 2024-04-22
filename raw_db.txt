@@ -1,0 +1,110 @@
+Focus:
+Quản lý khối lượng công việc của giảng viên, xác định khối lượng giảng dạy, nghiên cứu khoa học.
+Nhắc nhở giáo viên trong quá trình công tác (khen thưởng, các chỉ tiêu cần phấn đấu)
+
+Dựa theo cơ cấu tài liệu:
+Cơ cấu bộ môn: STT, Họ và Tên, Chức Danh, Học Vị, Email(nếu có), Website (nếu có)
+
+Một bộ môn có nhiều giảng viên: một giảng viên thuộc về một bộ môn chính 
+
+Dữ liệu hồ sơ giảng viên: Họ và tên, chức danh, học vấn, Email, SĐT, Địa chỉ nhà, thuộc bộ môn nào
+
+
+Admin:
+Id: int 
+username:
+password:
+first_name
+last_name 
+email
+created_at 
+updated_at
+
+
+Staff:
+Id:
+username
+password
+first_name
+last_name
+email
+created_at
+updated_at
+teacher_id: foreign key
+
+
+Teacher:
+Id:  int primary key auto increment 
+FullName: nvarchar(255)
+JobTitle: nvarchar(255)
+AcademicLevel: nvarchar(255)
+Email: nvarchar(255) 
+PhoneNumber: nvarchar(20)
+Address: nvarchar(255)
+MainSubjectId: int foreign key 
+
+
+Course:
+Id:
+course_name:
+created_at
+updated_at 
+
+
+Subject:
+Id: int primary key auto increment 
+SubjectName: nvarchar(255)
+SubjectDescription: nvarchar(max)
+CourseId
+StaffId
+Created_At
+Updated_At
+
+
+Student:
+Id: int 
+gender: 
+address:
+course_id:
+session_start_year
+session_end_year 
+created_at 
+updated_at 
+
+
+Attendance:
+Id: 
+subject_id 
+attendance_date
+created_at
+updated_at
+
+
+AttendanceReport:
+id
+student_id
+attendance_id
+status
+created_at
+updated_at
+
+
+LeaveReportStudent:
+id:
+student_id:
+leave_date:
+leave_message:
+leave_status:
+created_at:
+updated_at
+
+
+LeaveReportStaff:
+id:
+staff_id:
+leave_date:
+leave_message:
+leave_status:
+created_at:
+updated_at:
+
